@@ -20,7 +20,6 @@ class QuickDjangoTest(object):
         'django.contrib.auth',
         'django.contrib.contenttypes',
         'django.contrib.sessions',
-        'django.contrib.admin',
     )
 
     def __init__(self, *args, **kwargs):
